@@ -1,0 +1,11 @@
+This is a simple text sample to check fonts:
+
+oO0 !i1lI 38
+
+a quick brown fox jumps over the lazy dog
+A QUICK BROWN FOX JUMPS OVER THE LAZY DOG
+
+1234567890
+
+-=!@#$%^&*()_+[]{}/?\|;:~`'",.<>
+
